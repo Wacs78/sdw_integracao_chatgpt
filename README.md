@@ -1,0 +1,1 @@
+# sdw_integracao_chatgpt
